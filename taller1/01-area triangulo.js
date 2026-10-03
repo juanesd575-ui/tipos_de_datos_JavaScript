@@ -15,4 +15,4 @@ const areaTriangulo = (base * altura) / 2; //area del triangulo (numero)
 //mostramos el resultado en la consola
 console.log("el area del triangulo es: "+ areaTriangulo); //muestra el area del ttriangulo en la consola
 console.log("la base del triangulo es: "+ base); //muestra la base del triangulo en la consola
-console.log("la altura del triangulo es: "+ altura); // muestra la altura del triangulo en la consola
+console.log("la altura del triangulo es: "+ altura); // muestra la altura del triangulo en la consola.
